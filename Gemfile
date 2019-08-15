@@ -79,3 +79,6 @@ end
 
 # adds forms
 gem 'simple_form'
+
+# adds user authentication
+gem 'devise'
