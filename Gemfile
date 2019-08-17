@@ -83,3 +83,15 @@ gem 'simple_form'
 
 # adds user authentication
 gem 'devise'
+
+# adds secure keys
+gem 'figaro'
+
+# adds file uploading
+gem 'carrierwave', '~> 1.0'
+
+# updates aws upload method
+gem 'carrierwave-aws'
+
+# adds AWS integration
+gem 'fog-aws', require: 'fog/aws'
