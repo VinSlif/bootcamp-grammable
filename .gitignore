@@ -28,3 +28,6 @@
 
 # Ignore application configuration
 /config/application.yml
+
+# Ignores mac folder configs
+.DS_Store
